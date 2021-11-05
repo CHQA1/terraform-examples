@@ -1,7 +1,7 @@
 module aws_reverse_proxy {
   # Available inputs httpsgithub.comfuturiceterraform-utilstreemasteraws_reverse_proxy#inputs
   # Check for updates httpsgithub.comfuturiceterraform-utilscomparev11.0...master
-  # extra comment line added
+  # extra comment line edited
   source = gitsshgit@github.comfuturiceterraform-utils.gitaws_reverse_proxyref=v11.0
 
   origin_url             = httpexample.com           # note that this is just a dummy value to satisfy CloudFront, it won't ever be used with the override_ variables in place
